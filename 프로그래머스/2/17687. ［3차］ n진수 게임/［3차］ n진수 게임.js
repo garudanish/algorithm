@@ -7,5 +7,5 @@ function solution(n, t, m, p) {
         currentNumber += 1;
     }
     
-    return numbers.filter((_, i) => i % m === p - 1).slice(0, t).join("")
+    return numbers.filter((_, i) => i % m === p - 1).slice(0, t).join("");
 }
