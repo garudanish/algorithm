@@ -22,13 +22,16 @@ function solution(schedules, timelogs, startday) {
     
     const mondayIndex = (7 - (startday % 7) + 1) % 7
     
+    // timelogs를 월화수목금 순서의 배열로 정리함
     const weekDayTimeLogs = timelogs.reduce((acc, cur) => [
         ...acc,
         [...cur.slice(mondayIndex, mondayIndex + 5), ...cur.slice(0, Math.max(0, mondayIndex - 2))].map((log) => toDate(log))
     ], [])
     
+    // 인정 시간을 구하고
     const dates = schedules.map((schedule) => toDate(schedule, 10));
     
+    // 출근 시간이 모두(every) 인정 시간 이내인지 구해야 함
     const validEmployees = weekDayTimeLogs.filter((logs, i) => {
         const scheduleDate = dates[i];
         return logs.every((log) => scheduleDate.getTime() - log.getTime() >= 0)
@@ -36,7 +39,3 @@ function solution(schedules, timelogs, startday) {
     
     return validEmployees.length
 }
-
-// timelogs를 월화수목금 순서의 배열로 정리함
-// 인정 시간을 구하고
-// 출근 시간이 모두(every) 인정 시간 이내인지 구해야 함
