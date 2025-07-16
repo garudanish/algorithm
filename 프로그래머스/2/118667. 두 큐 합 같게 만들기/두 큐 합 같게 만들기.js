@@ -44,9 +44,9 @@ function solution(queue1, queue2) {
     }
    
     // 만약 두 큐의 요소 중 하나라도 goal보다 크다면 불가능함
-    // if (queue1.some((num) => num > goal) || queue2.some((num) => num > goal)) {
-    //     return -1;
-    // }
+    if (queue1.some((num) => num > goal) || queue2.some((num) => num > goal)) {
+        return -1;
+    }
     
     let count = 0;
     
