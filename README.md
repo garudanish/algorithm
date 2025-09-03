@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garudanish/algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/garudanish/algorithm/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/garudanish/algorithm/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
