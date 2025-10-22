@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/garudanish/algorithm/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/garudanish/algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -63,4 +65,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/garudanish/algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
