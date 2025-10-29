@@ -30,6 +30,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/garudanish/algorithm/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/garudanish/algorithm/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/garudanish/algorithm/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
@@ -71,11 +72,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/garudanish/algorithm/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/garudanish/algorithm/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/garudanish/algorithm/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/garudanish/algorithm/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
