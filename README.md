@@ -32,6 +32,7 @@
 | [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garudanish/algorithm/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/garudanish/algorithm/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/garudanish/algorithm/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0169-majority-element](https://github.com/garudanish/algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garudanish/algorithm/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/garudanish/algorithm/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/garudanish/algorithm/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
